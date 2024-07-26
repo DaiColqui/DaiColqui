@@ -1,8 +1,6 @@
 ## ¡Hola mundo! Soy **Daiana** 👋
 <br/>
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Linkedin](https://www.linkedin.com/in/daicolqui/)&nbsp;&nbsp;
-
 ### Un poco sobre mi:
 - 📍 Soy de Rosario, Santa Fe, Argentina.
 - 🐣 Soy desarrolladora full stack.
